@@ -5,6 +5,6 @@ val: images/val
 test: images/test
 
 names:
-  0: cup
-  1: mouse
-  2: phone
+  0: mouse
+  1: phone
+ 
