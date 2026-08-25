@@ -219,3 +219,10 @@ __marimo__/
 
 dataset/coco_raw/
 .vscode/
+dataset/images/train/
+dataset/images/val/
+dataset/labels/train/
+dataset/labels/val/
+runs/
+yolo26n.pt
+dataset/labels/*.cache
