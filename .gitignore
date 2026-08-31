@@ -226,3 +226,18 @@ dataset/labels/val/
 runs/
 yolo26n.pt
 dataset/labels/*.cache
+dataset/mixed_all_v*/
+dataset/custom_balanced*/
+dataset/custom_finetune/
+
+# Generated datasets
+dataset/images/
+dataset/labels/
+dataset/mixed_*/
+
+# Training outputs
+runs/
+
+# Model weights
+models/*.pt
+models/*.zip

@@ -1,0 +1,15 @@
+path: ../dataset
+
+train:
+  - images/train
+  - custom_balanced_v3/images/train
+
+val:
+  - images/val
+  - custom_balanced_v3/images/val
+
+test: images/test
+
+names:
+  0: mouse
+  1: cell phone

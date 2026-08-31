@@ -1,7 +1,7 @@
 import json
 from pathlib import Path
 
-SOURCE_DIR = Path(r"C:\Users\Lenovo\Desktop\myphotos")
+SOURCE_DIR = Path(r"C:\Users\Lenovo\Desktop\mynewphotos")
 OUTPUT_DIR = SOURCE_DIR / "yolo_labels"
 
 CLASS_MAP = {
